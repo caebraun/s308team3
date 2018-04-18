@@ -1,0 +1,6 @@
+Client meeting s308
+
+•	How do we store the room and date data? 
+•	Which additional use case? How many?
+o	He’s not going to tell you, you just need to come up with some idea and suggest it to him and he’s supposed to tell you if he likes it or not
+•	How do we connect the Room class to the Reservation class through roomType? 
